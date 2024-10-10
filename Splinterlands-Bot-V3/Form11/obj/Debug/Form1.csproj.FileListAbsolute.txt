@@ -1,0 +1,2 @@
+D:\GithubNew\15\Splinterlands\Splinterlands\Splinterlands-Bot-V3\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\15\Splinterlands\Splinterlands\Splinterlands-Bot-V3\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
